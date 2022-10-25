@@ -1,2 +1,2 @@
 # boilerplates
-Collection of template files
+Collection of template files for docker etc.
